@@ -57,7 +57,6 @@ I'm fascinated by systems that combine hardware, software, and real-world applic
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shah-mohammed-tahmid-a7b19b243) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahmidshahmd@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@shahmdtahmid5568)
 
 ---
 
