@@ -2,7 +2,7 @@
 
 ## 🎓 Electrical Engineering Student | 🔧 Embedded Systems Enthusiast | 💻 Self-Directed Learner
 
-I'm a junior at **Stony Brook University** studying Electrical Engineering with a passion for building things that bridge hardware and software. I love exploring new technologies through hands-on projects—from embedded systems to blockchain.
+I'm an Electrical Engineering student with a passion for building things that bridge hardware and software. I love exploring new technologies through hands-on projects—from embedded systems to blockchain.
 
 ### 🔭 What I'm Currently Working On:
 - Building my GitHub portfolio with projects in **embedded systems**, **blockchain**, and **industrial automation**
